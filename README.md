@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kcollinsfx
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Python and how to use Github.
+- 👀 Aspiring Computer Scientist.
+- 🌱 I’m currently learning Web APIs.
 - 💞️ I’m looking to collaborate on various personal projects and open source projects.
 - 📫 How to reach me, I guess text me on here.
 
